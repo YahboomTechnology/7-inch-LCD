@@ -1,0 +1,8 @@
+﻿Download Link:
+https://drive.google.com/open?id=1fABihTmcCBAOX7PkGvH9hu9_cTkBSjbw
+
+Username: pi
+Password: yahboom
+The 7-inch screen driver has been installed in the system image. After burning the system, the 7-inch screen can be directly lit on the Raspberry Pi. The SSH service has been turned on and can also be used with a putty remote connection.
+
+This image applies to 800*480 LCD and 1024*600 LCD
